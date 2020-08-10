@@ -324,11 +324,11 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/onclite/proprietary/vendor/etc/init/vendor.qti.hardware.qteeconnector@1.0-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.qti.hardware.qteeconnector@1.0-service.rc \
     vendor/xiaomi/onclite/proprietary/vendor/etc/init/vendor.qti.hardware.soter@1.0-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.qti.hardware.soter@1.0-service.rc \
     vendor/xiaomi/onclite/proprietary/vendor/etc/init/vendor.qti.hardware.tui_comm@1.0-service-qti.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.qti.hardware.tui_comm@1.0-service-qti.rc \
-    vendor/xiaomi/onclite/proprietary/vendor/etc/perf/commonresourceconfigs.xml:$(TARGET_COPY_OUT_VENDOR)/etc/perf/commonresourceconfigs.xml \
-    vendor/xiaomi/onclite/proprietary/vendor/etc/perf/perfboostsconfig.xml:$(TARGET_COPY_OUT_VENDOR)/etc/perf/perfboostsconfig.xml \
-    vendor/xiaomi/onclite/proprietary/vendor/etc/perf/perfconfigstore.xml:$(TARGET_COPY_OUT_VENDOR)/etc/perf/perfconfigstore.xml \
-    vendor/xiaomi/onclite/proprietary/vendor/etc/perf/targetconfig.xml:$(TARGET_COPY_OUT_VENDOR)/etc/perf/targetconfig.xml \
-    vendor/xiaomi/onclite/proprietary/vendor/etc/perf/targetresourceconfigs.xml:$(TARGET_COPY_OUT_VENDOR)/etc/perf/targetresourceconfigs.xml \
+    vendor/xiaomi/onclite/proprietary/vendor/etc/perf/commonresourceconfigs.xml.bkp:$(TARGET_COPY_OUT_VENDOR)/etc/perf/commonresourceconfigs.xml.bkp \
+    vendor/xiaomi/onclite/proprietary/vendor/etc/perf/perfboostsconfig.xml.bkp:$(TARGET_COPY_OUT_VENDOR)/etc/perf/perfboostsconfig.xml.bkp \
+    vendor/xiaomi/onclite/proprietary/vendor/etc/perf/perfconfigstore.xml.bkp:$(TARGET_COPY_OUT_VENDOR)/etc/perf/perfconfigstore.xml.bkp \
+    vendor/xiaomi/onclite/proprietary/vendor/etc/perf/targetconfig.xml.bkp:$(TARGET_COPY_OUT_VENDOR)/etc/perf/targetconfig.xml.bkp \
+    vendor/xiaomi/onclite/proprietary/vendor/etc/perf/targetresourceconfigs.xml.bkp:$(TARGET_COPY_OUT_VENDOR)/etc/perf/targetresourceconfigs.xml.bkp \
     vendor/xiaomi/onclite/proprietary/vendor/etc/permissions/com.fingerprints.extension.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/com.fingerprints.extension.xml \
     vendor/xiaomi/onclite/proprietary/vendor/etc/qdcm_calib_data_CSOT_otm1901a_video_mode_dsi_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_CSOT_otm1901a_video_mode_dsi_panel.xml \
     vendor/xiaomi/onclite/proprietary/vendor/etc/qdcm_calib_data_boe_hx8394f_video_mode_dsi_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_boe_hx8394f_video_mode_dsi_panel.xml \
